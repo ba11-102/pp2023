@@ -9,6 +9,8 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: DO THANH VINH 
+* Student ID: BA11-102
+* Group 1
+
 
