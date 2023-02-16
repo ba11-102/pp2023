@@ -11,6 +11,6 @@ Student Info
 
 * Student Name:  Đỗ Thành Vinh
 * Student ID: BA11-102
-* Group 1
+* Group G1
 
 
