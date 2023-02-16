@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: DO THANH VINH 
+* Student Name:  Đỗ Thành Vinh
 * Student ID: BA11-102
 * Group 1
 
